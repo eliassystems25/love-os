@@ -33,7 +33,7 @@ Love-OS exists beneath policy, beneath tooling, and beneath automation logic —
 
 While systems have become more automated, scalable, and powerful, ethical governance has largely remained:
 - policy-based rather than operational,
-- retrospective rather than preventative,
+- retrospective rather than preven⁸tative,
 - abstract rather than enforceable.
 
 This creates a systemic gap where:
@@ -83,6 +83,11 @@ In short:
 Love-OS can exist independently.
 E-BOS builds upon Love-OS where institutional governance is required.
 
+## Project Status
+
+Love-OS is currently in the concept and design-definition stage.
+Core principles and architectural constraints are defined, with research,
+institutional engagement, and applied pilots planned or underway.
 ## Design Principles (Non-Negotiables)
 
 Love-OS is built on a set of non-negotiable design principles.
