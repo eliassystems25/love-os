@@ -27,3 +27,18 @@ Instead, it provides a **foundational ethical substrate** that:
 - and preserves human responsibility in high-impact environments.
 
 Love-OS exists beneath policy, beneath tooling, and beneath automation logic — ensuring that systems remain *aligned with human wellbeing even under pressure*.
+## Why Love OS Exists
+
+Modern intelligent systems increasingly operate in high-impact environments where decisions affect human safety, dignity, access, and opportunity.
+
+While systems have become more automated, scalable, and powerful, ethical governance has largely remained:
+- policy-based rather than operational,
+- retrospective rather than preventative,
+- abstract rather than enforceable.
+
+This creates a systemic gap where:
+- harm is recognised only after impact,
+- accountability is fragmented across people and tools,
+- and responsibility is diluted by automation.
+
+Love OS exists to close this gap by embedding ethical behaviour directly into system architecture — ensuring alignment is enforced at design time and preserved at run time.
