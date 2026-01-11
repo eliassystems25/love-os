@@ -132,6 +132,26 @@ into enforceable system architecture.
 If a system cannot operate within these constraints,
 it is not compatible with Love-OS.
 
+## Where Love-OS Is Applied
+
+Love-OS is designed for environments where intelligent systems
+directly influence human safety, dignity, rights, and long-term outcomes.
+
+It is applicable across domains including:
+
+- **Artificial Intelligence systems** — alignment, oversight, and harm prevention.
+- **Automated decision systems** — eligibility, risk scoring, prioritisation, and triage.
+- **Safety-critical infrastructure** — healthcare, transport, energy, and public systems.
+- **Government and public sector systems** — policy execution, accountability, and assurance.
+- **Enterprise automation** — large-scale operational decision-making and compliance.
+- **Socio-technical systems** — where human behaviour and machine logic interact.
+
+Love-OS is not sector-specific.
+It is impact-specific.
+
+Where system behaviour affects human lives,
+Love-OS provides the ethical operating substrate.
+
 
 
 
