@@ -63,3 +63,23 @@ Love-OS does not replace operating systems, governance frameworks, or ethics boa
 It provides the ethical substrate that allows those systems to function safely
 under real-world pressure.
 
+## Relationship to E-BOS
+
+Love-OS and E-BOS operate at different but complementary layers.
+
+Love-OS is the foundational ethical operating substrate.
+It defines the core constraints of dignity, harm-prevention, alignment, and accountability
+that govern how intelligent systems are allowed to behave.
+
+E-BOS operates at the institutional and governance layer.
+It applies ethical behaviour oversight across organisations, infrastructures,
+and regulated environments where decisions are distributed across people,
+processes, and technology.
+
+In short:
+- Love-OS defines the ethical architecture of systems.
+- E-BOS governs ethical behaviour within institutions.
+
+Love-OS can exist independently.
+E-BOS builds upon Love-OS where institutional governance is required.
+
