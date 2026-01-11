@@ -112,6 +112,27 @@ including power imbalance, vulnerability, and downstream effects.
 Ethical constraints may not be weakened implicitly through scale,
 automation, abstraction, or delegation.
 
+## What Love-OS Enables
+
+Love-OS enables ethical behaviour to be governed, enforced, and sustained
+within intelligent and automated systems — not assumed or deferred.
+
+Specifically, Love-OS enables:
+
+- Ethical constraints to be embedded at design time rather than added after deployment.
+- Alignment between human intent, system behaviour, and real-world outcomes.
+- Auditable reasoning paths that explain *why* decisions occurred, not just *what* occurred.
+- Preservation of human responsibility in automated and AI-assisted environments.
+- Safe operation of intelligent systems in high-impact, high-risk contexts.
+- Prevention of ethical drift as systems scale, automate, or self-optimise.
+
+Love-OS transforms ethics from policy documentation
+into enforceable system architecture.
+
 If a system cannot operate within these constraints,
 it is not compatible with Love-OS.
+
+
+
+
 
