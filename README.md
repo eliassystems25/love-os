@@ -190,7 +190,21 @@ Licensing is designed to ensure responsible use,
 contextual integrity, and alignment with the core design principles
 of dignity, harm prevention, and accountability.
 
+## Contact & Next Steps
 
+This repository defines the Love-OS ethical operating system
+and its role as a foundational constraint layer for intelligent systems.
+
+Organisations, researchers, and public institutions interested in:
+- ethical system design and alignment,
+- responsible automation and AI governance,
+- high-impact system evaluation,
+- or controlled exploration of Love-OS integration
+
+are encouraged to engage through appropriate professional channels.
+
+All engagement begins with contextual discussion and suitability assessment
+to ensure alignment with the non-negotiable design principles of Love-OS.
 
 
 
