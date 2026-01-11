@@ -50,3 +50,16 @@ yet ethical intent is often expressed only at policy or principle level.
 
 Love-OS exists to ensure that human dignity, harm-prevention, and alignment
 are enforced at the system level — not assumed, not deferred, and not abstracted away.
+
+
+## Where Love-OS Fits
+
+Love-OS operates beneath policy, tooling, and application logic.
+
+It sits at the architectural layer where system constraints,
+decision boundaries, and alignment rules are defined — before behaviour emerges.
+
+Love-OS does not replace operating systems, governance frameworks, or ethics boards.
+It provides the ethical substrate that allows those systems to function safely
+under real-world pressure.
+
