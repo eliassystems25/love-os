@@ -83,3 +83,35 @@ In short:
 Love-OS can exist independently.
 E-BOS builds upon Love-OS where institutional governance is required.
 
+## Design Principles (Non-Negotiables)
+
+Love-OS is built on a set of non-negotiable design principles.
+These are not values statements — they are enforced system constraints.
+
+1. Human Dignity First  
+All system behaviour must preserve human dignity, agency, and autonomy.
+No optimisation, efficiency gain, or performance objective may override this.
+
+2. Harm Prevention by Design  
+Preventable harm must be constrained at the system level.
+Love-OS prioritises upstream prevention over downstream mitigation.
+
+3. Alignment Over Optimisation  
+Systems must remain aligned with human intent and real-world impact,
+not merely optimised for abstract metrics or proxy goals.
+
+4. Accountability Cannot Be Removed  
+Automation must never erase responsibility.
+Human accountability must remain visible, traceable, and enforceable.
+
+5. Context Matters  
+Decisions must be evaluated within their real-world context,
+including power imbalance, vulnerability, and downstream effects.
+
+6. No Silent Ethical Degradation  
+Ethical constraints may not be weakened implicitly through scale,
+automation, abstraction, or delegation.
+
+If a system cannot operate within these constraints,
+it is not compatible with Love-OS.
+
