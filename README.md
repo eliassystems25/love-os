@@ -152,6 +152,26 @@ It is impact-specific.
 Where system behaviour affects human lives,
 Love-OS provides the ethical operating substrate.
 
+## What Love-OS Is Not
+
+Love-OS is not a moral doctrine, belief system, or ideological framework.
+
+It does not prescribe values, political positions, or social outcomes,
+nor does it attempt to replace cultural, legal, or institutional ethics processes.
+
+Love-OS is not:
+- a sentiment-based or emotional model,
+- a replacement for human judgment,
+- a substitute for law, regulation, or governance,
+- or a mechanism for enforcing uniform behaviour.
+
+Instead, Love-OS provides a structural ethical constraint layer
+that ensures systems remain compatible with human dignity,
+accountability, and harm prevention — regardless of domain or ideology.
+
+Love-OS defines *how systems must behave*,
+not *what humans must believe*.
+
 
 
 
