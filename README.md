@@ -172,6 +172,24 @@ accountability, and harm prevention — regardless of domain or ideology.
 Love-OS defines *how systems must behave*,
 not *what humans must believe*.
 
+## Licensing & Availability
+
+Love-OS is not released as an open, unrestricted implementation.
+
+This repository defines the Love-OS concept, scope, and design intent,
+while protecting the applied methodologies, system logic,
+and enforcement mechanisms that enable real-world operation.
+
+Engagement with Love-OS is available through:
+- research and academic collaboration,
+- institutional evaluation and assessment,
+- controlled pilots and proof-of-concept work,
+- and licensed deployment in high-impact environments.
+
+Licensing is designed to ensure responsible use,
+contextual integrity, and alignment with the core design principles
+of dignity, harm prevention, and accountability.
+
 
 
 
