@@ -103,12 +103,12 @@ Together, these components form a layered governance stack for AI-supported and 
 
 This repository provides:
 
-- Conceptual substrate definition
+- Foundational substrate definition
 - Architectural ethical posture overview
 - Foundational constraint framework description
 - Governance positioning documentation
 
-Applied enforcement logic, operational constraint models, and integration artefacts are available through licensed institutional engagement.## Licensing
+Applied enforcement logic, operational constraint models, and integration artefacts are available through licensed institutional engagement.# Licensing
 
 Love-OS™ is released under a structured ethical licence.
 
