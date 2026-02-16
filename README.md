@@ -6,7 +6,9 @@ Public Governance Specification
 
 Love-OS™ (Love Operating Substrate) is a foundational ethical constraint architecture designed to embed human dignity, harm-prevention, alignment, and accountability as first-order system constraints within intelligent and automated environments.
 
-It operates beneath models, tooling, governance frameworks, and automation layers — ensuring that system behaviour remains structurally compatible with human wellbeing under operational pressure.
+Love-OS™ defines the foundational ethical constraints beneath models, tooling, governance frameworks, and automation layers.
+
+It ensures that system behaviour remains structurally compatible with human dignity, alignment, and harm-prevention under operational pressure.
 
 Love-OS™ does not replace intelligence, policy, or institutional authority.  
 It defines the ethical boundaries within which those systems are permitted to operate.
